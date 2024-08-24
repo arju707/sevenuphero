@@ -1,0 +1,53 @@
+.navbar{
+    background-color: rgba(64, 170, 37, 0.945);
+    height: 150px;
+    width: 100%;
+
+
+}
+.main{
+    margin: 0px;
+}
+.logo{
+    width: 115px;
+    padding-top: 20px;
+    padding-left: 35px;
+
+}
+.menu{
+    margin: 10px;
+    h;
+}
+.leftnav{
+    width: 50%;
+    height: 50%;
+
+}
+.rightnav{
+    width: 50%;
+    height: 50%;
+    padding-left: 650px; 
+
+}
+.navlink{
+    padding-left: 20px;
+    color: #fff;
+    font-family: "korolev";
+    font-weight: 500px;
+    font-size: 22px;
+    text-decoration: none;
+    text-transform: uppercase;
+    background: transparent;
+}
+.logof{
+    width: 25px;
+    padding-left: 150px;
+    text-decoration: none;
+
+}
+.logoi{
+    width: 25px;
+    padding-left: 5px;
+    text-decoration: none;
+    
+}
