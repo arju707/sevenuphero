@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 .navbar{
-    background-color: rgba(64, 170, 37, 0.945);
-    height: 150px;
+    background-color: rgba(25, 164, 36, 0.945);
+    height: 130px;
     width: 100%;
+    position: fixed;
+    z-index: 1000;
+    border-bottom: 1px solid #fff;
 
 
 }
@@ -16,7 +20,7 @@
 }
 .menu{
     margin: 10px;
-    h;
+    ;
 }
 .leftnav{
     width: 50%;
@@ -32,22 +36,29 @@
 .navlink{
     padding-left: 20px;
     color: #fff;
-    font-family: "korolev";
+    font-family: ;
     font-weight: 500px;
     font-size: 22px;
     text-decoration: none;
     text-transform: uppercase;
     background: transparent;
+  
+
 }
 .logof{
-    width: 25px;
-    padding-left: 150px;
+    width:33px;
+    padding-left: 83px;
     text-decoration: none;
 
 }
 .logoi{
-    width: 25px;
+    width: 33px;
     padding-left: 5px;
     text-decoration: none;
+   
     
+
+.section1{
+    padding-top: 110px;
+    position: relative;
 }
